@@ -4,7 +4,7 @@
 
 I'm a passionate software developer with a keen interest in Cloud & DevOps. I love to learn and explore new things in the ever-evolving world of technology.
 
-- 🌱 I’m currently learning [specific technology or skill].
+- 🌱 I’m currently learning mlOps
 - 💬 Ask me about [something you're knowledgeable about].
 - 😄 Pronouns: [Your pronouns]
 
