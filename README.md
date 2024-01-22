@@ -4,32 +4,20 @@
 
 I'm a passionate software developer with a keen interest in Cloud & DevOps. I love to learn and explore new things in the ever-evolving world of technology.
 
-- 🌱 I’m currently learning mlOps
-- 💬 Ask me about [something you're knowledgeable about].
-- 😄 Pronouns: [Your pronouns]
+- 🌱 I’m currently learning MlOps
+- 💬 Ask me about [Automation].
+- 😄 Pronouns: [Saahil Bhai]
 
 ## Skills
+- **Programming & Scripting Languages:** Python Scripting,YAML,Groovy,Bash,Terraform
+- **Web Technologies:** Appache Tomcat & nginx
+- **Databases:** Dynamodb, SQLserver
+- **Tools & Frameworks:** Jenkins,Git,Jira,ServiceNow,
 
-- **Programming Languages:** [List of programming languages]
-- **Web Technologies:** [List of web technologies]
-- **Databases:** [List of databases]
-- **Tools & Frameworks:** [List of tools and frameworks]
-
-## Projects
-
-Here are some projects I'm proud of:
-
-- [Project 1](link-to-project1): Short description.
-- [Project 2](link-to-project2): Short description.
-- ...
+## Education
+-B.Sc IT (Dual Degree) Major-IT,Minor-Marketing Management
+-MBA Buisness Analytics
 
 ## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Personal Website/Blog](https://www.yourwebsite.com)
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide=contribs)
+- [LinkedIn](linkedin.com/in/saahil-pratap-singh-21446421a/)
 
