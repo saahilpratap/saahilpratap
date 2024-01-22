@@ -19,5 +19,5 @@ I'm a passionate software developer with a keen interest in Cloud & DevOps. I lo
 -MBA Buisness Analytics
 
 ## Connect with Me
-- [LinkedIn](linkedin.com/in/saahil-pratap-singh-21446421a/)
+- [LinkedIn]([linkedin.com/in/saahil-pratap-singh-21446421a/](http://www.linkedin.com/in/saahil-pratap-singh-21446421a/)http://www.linkedin.com/in/saahil-pratap-singh-21446421a/)
 
