@@ -6,15 +6,14 @@ I am a dedicated Cloud & DevOps Engineer with a profound interest in Cloud and D
 - 🌱 I’m currently learning MLOps.
 - 💬 Ask me about Automation, DevOps, and Cloud Computing.
 - 😄 Pronouns: Saahil Bhai
-- 📚 I enjoy reading books on technology and entrepreneurship.
+- 📚 I enjoy exploring the technology and world.
 - 🚀 Passionate about creating efficient and cost-optimized infrastructure.
 
 ## Skills
 - **Programming & Scripting Languages:** Python, YAML, Groovy, Bash, Terraform, JavaScript, Java, Ruby, PowerShell
 - **Web Technologies:** Apache Tomcat, Nginx, Express.js, Flask, Django
 - **Databases:** DynamoDB, SQL Server, MySQL, PostgreSQL, MongoDB
-- **Tools & Frameworks:** Docker, DevTools, Confluence, Jenkins, Git, Jira, ServiceNow, Kubernetes, Ansible, Selenium, Maven
-
+- **Tools & Frameworks:** Docker, DevTools, Confluence, Jenkins, Git, Jira, ServiceNow, Kubernetes, Terraform, SonarQube
 ## Certifications
 - Azure Fundamentals AZ-900 (‘January 2022’- ‘No Expiry’)
 - Azure Administrator AZ-104 (‘November 2022’- ‘February 2025’)
