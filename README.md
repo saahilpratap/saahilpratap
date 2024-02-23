@@ -24,7 +24,6 @@ I am a dedicated Cloud & DevOps Engineer with a profound interest in Cloud and D
 
 ## Education
 - B.Sc IT (Dual Degree) - Major: Information Technology, Minor: Marketing Management
-- MBA in Business Analytics
 
 ## Connect with Me
 - [LinkedIn](http://www.linkedin.com/in/saahil-pratap-singh-21446421a/)
